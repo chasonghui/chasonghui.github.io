@@ -20,7 +20,7 @@ title                    : "짬송 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jjamsong"
-description              : "공부기록."
+description              : "공부방"
 url                      : "https://chasonghui.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "/assets/images/blog.png" # Open Graph/Twitter default site image
+og_image                 :  "/assets/images/keyboard.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "jjamsong"
-  avatar           : "/assets/images/blog.png"
+  avatar           : "/assets/images/blog2.jpg"
   bio              : "student"
   location         : "South Korea"
   email            :
