@@ -102,15 +102,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:chasonghui@naver.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://chasonghui.github.io"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/chasonghui"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/jjaaamsong/?hl=ko"
+    
 
 # Site Footer
 footer:
