@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
-subtitle:
+title: Cha
+subtitle: log
 description:
-author: John Doe
+author: Cha songhui
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: "https://chasonghui.github.io/"
 baseurl:
 permalink: pretty
 
@@ -504,7 +504,7 @@ facebook_comments_plugin:
   scheme: light     # default scheme is light (light or dark)
 
 # VKontakte API Support.
-# To get your AppID visit https://vk.com/editapp?act=create
+# To get your ppID visit https://vk.com/editapp?act=create
 vkontakte_api:
   enable: false
   app_id:       #<app_id>
